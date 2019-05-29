@@ -1,0 +1,215 @@
+INFO    2019-05-27 20:38:29,929 [main] Runner  - ::::::::::::::::Welcome to the slot-game::::::::::::::::
+INFO    2019-05-27 20:38:29,932 [main] Runner  - outcome :: CHERRY SEVEN HOUSE
+INFO    2019-05-27 20:38:29,933 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 20:38:32,418 [main] Runner  - outcome :: CHERRY CHERRY CHERRY
+INFO    2019-05-27 20:38:32,418 [main] Runner  - Result : Great, You hit the bonus game! play for free.
+INFO    2019-05-27 20:38:32,419 [main] Runner  - ::::::playing bonus game::::::
+INFO    2019-05-27 20:38:32,420 [main] Runner  - Choose any box number between 1 to 5 OR press any char to exit the bonus round: 
+INFO    2019-05-27 20:38:36,056 [main] Runner  - You have earned 5 coins. 
+INFO    2019-05-27 20:38:36,056 [main] Runner  - Choose any box number between 1 to 5 OR press any char to exit the bonus round: 
+INFO    2019-05-27 20:38:37,588 [main] Runner  - You clicked the bomb : game end
+INFO    2019-05-27 20:38:44,571 [main] Runner  - outcome :: CHERRY HOUSE HOUSE
+INFO    2019-05-27 20:38:44,571 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 20:38:48,680 [main] Runner  - outcome :: HOUSE SEVEN HOUSE
+INFO    2019-05-27 20:38:48,681 [main] Runner  - Result : Wow, you hit a free game! play next round for free.
+INFO    2019-05-27 20:38:48,681 [main] Runner  - outcome :: CHERRY HOUSE HOUSE
+INFO    2019-05-27 20:38:48,681 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:03:28,318 [main] Runner  - ::::::::::::::::Welcome to the slot-game::::::::::::::::
+INFO    2019-05-27 21:03:28,321 [main] Runner  - outcome :: CHERRY CHERRY CHERRY
+INFO    2019-05-27 21:03:28,322 [main] Runner  - Result : Great, You hit the bonus game! play for free.
+INFO    2019-05-27 21:03:28,323 [main] Runner  - ::::::playing bonus game::::::
+INFO    2019-05-27 21:03:28,324 [main] Runner  - Choose any box number between 1 to 5 OR press any char to exit the bonus round: 
+INFO    2019-05-27 21:03:40,706 [main] Runner  - You clicked the bomb : game end
+INFO    2019-05-27 21:03:54,363 [main] Runner  - outcome :: SEVEN CHERRY HOUSE
+INFO    2019-05-27 21:03:54,363 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:04:39,508 [main] Runner  - outcome :: CHERRY HOUSE HOUSE
+INFO    2019-05-27 21:04:39,508 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:04:42,142 [main] Runner  - outcome :: CHERRY HOUSE CHERRY
+INFO    2019-05-27 21:04:42,145 [main] Runner  - Result : Better luck next time!!
+INFO    2019-05-27 21:04:43,100 [main] Runner  - outcome :: HOUSE CHERRY SEVEN
+INFO    2019-05-27 21:04:43,100 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:04:44,126 [main] Runner  - outcome :: SEVEN SEVEN SEVEN
+INFO    2019-05-27 21:04:44,126 [main] Runner  - Result : Great, You hit the bonus game! play for free.
+INFO    2019-05-27 21:04:44,126 [main] Runner  - ::::::playing bonus game::::::
+INFO    2019-05-27 21:04:44,127 [main] Runner  - Choose any box number between 1 to 5 OR press any char to exit the bonus round: 
+INFO    2019-05-27 21:04:45,878 [main] Runner  - Exiting box-picking  game...!
+INFO    2019-05-27 21:05:02,488 [main] Runner  - ::::::::::::::::Welcome to the slot-game::::::::::::::::
+INFO    2019-05-27 21:05:02,493 [main] Runner  - outcome :: SEVEN SEVEN SEVEN
+INFO    2019-05-27 21:05:02,494 [main] Runner  - Result : Great, You hit the bonus game! play for free.
+INFO    2019-05-27 21:05:02,495 [main] Runner  - ::::::playing bonus game::::::
+INFO    2019-05-27 21:05:02,495 [main] Runner  - Choose any box number between 1 to 5 OR press any char to exit the bonus round: 
+INFO    2019-05-27 21:05:28,076 [main] Runner  - You have earned 5 coins. 
+INFO    2019-05-27 21:05:28,076 [main] Runner  - Choose any box number between 1 to 5 OR press any char to exit the bonus round: 
+INFO    2019-05-27 21:05:30,737 [main] Runner  - You have earned 5 coins. 
+INFO    2019-05-27 21:05:30,737 [main] Runner  - Choose any box number between 1 to 5 OR press any char to exit the bonus round: 
+INFO    2019-05-27 21:05:35,293 [main] Runner  - You have earned 5 coins. 
+INFO    2019-05-27 21:05:35,293 [main] Runner  - Choose any box number between 1 to 5 OR press any char to exit the bonus round: 
+INFO    2019-05-27 21:05:37,512 [main] Runner  - You clicked the bomb : game end
+INFO    2019-05-27 21:25:06,496 [main] Runner  - outcome :: CHERRY HOUSE CHERRY
+INFO    2019-05-27 21:25:06,498 [main] Runner  - Result : Better luck next time!!
+INFO    2019-05-27 21:27:09,380 [main] Runner  - ::::::::::::::::Welcome to the slot-game::::::::::::::::
+INFO    2019-05-27 21:27:09,384 [main] Runner  - outcome :: SEVEN CHERRY CHERRY
+INFO    2019-05-27 21:27:09,384 [main] Runner  - Result : Better luck next time!!
+INFO    2019-05-27 21:27:27,165 [main] Runner  - Sorry! you are out of credit.
+INFO    2019-05-27 21:27:27,165 [main] Runner  - ************::::End Game::::******************
+INFO    2019-05-27 21:27:52,376 [main] Runner  - ::::::::::::::::Welcome to the slot-game::::::::::::::::
+INFO    2019-05-27 21:27:52,379 [main] Runner  - outcome :: CHERRY CHERRY SEVEN
+INFO    2019-05-27 21:27:52,380 [main] Runner  - Result : Better luck next time!!
+INFO    2019-05-27 21:27:59,067 [main] Runner  - Sorry! you are out of credit.
+INFO    2019-05-27 21:27:59,067 [main] Runner  - ************::::End Game::::******************
+INFO    2019-05-27 21:28:02,709 [main] Runner  - ::::::::::::::::Welcome to the slot-game::::::::::::::::
+INFO    2019-05-27 21:28:02,712 [main] Runner  - outcome :: SEVEN SEVEN CHERRY
+INFO    2019-05-27 21:28:02,713 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:28:10,843 [main] Runner  - outcome :: CHERRY SEVEN HOUSE
+INFO    2019-05-27 21:28:10,844 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:28:18,060 [main] Runner  - outcome :: HOUSE CHERRY SEVEN
+INFO    2019-05-27 21:28:18,060 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:28:24,354 [main] Runner  - outcome :: SEVEN CHERRY HOUSE
+INFO    2019-05-27 21:28:24,355 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:28:26,089 [main] Runner  - outcome :: SEVEN HOUSE CHERRY
+INFO    2019-05-27 21:28:26,089 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:28:27,528 [main] Runner  - outcome :: SEVEN SEVEN HOUSE
+INFO    2019-05-27 21:28:27,529 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:28:28,874 [main] Runner  - outcome :: HOUSE HOUSE CHERRY
+INFO    2019-05-27 21:28:28,874 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:28:30,603 [main] Runner  - outcome :: CHERRY SEVEN HOUSE
+INFO    2019-05-27 21:28:30,604 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:28:31,891 [main] Runner  - outcome :: CHERRY CHERRY HOUSE
+INFO    2019-05-27 21:28:31,892 [main] Runner  - Result : Better luck next time!!
+INFO    2019-05-27 21:28:35,773 [main] Runner  - outcome :: SEVEN HOUSE SEVEN
+INFO    2019-05-27 21:28:35,774 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:28:37,795 [main] Runner  - outcome :: CHERRY SEVEN SEVEN
+INFO    2019-05-27 21:28:37,795 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:28:40,273 [main] Runner  - outcome :: SEVEN HOUSE CHERRY
+INFO    2019-05-27 21:28:40,273 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:28:41,560 [main] Runner  - outcome :: HOUSE HOUSE CHERRY
+INFO    2019-05-27 21:28:41,560 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:28:42,858 [main] Runner  - outcome :: CHERRY SEVEN HOUSE
+INFO    2019-05-27 21:28:42,858 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:28:45,228 [main] Runner  - outcome :: SEVEN CHERRY HOUSE
+INFO    2019-05-27 21:28:45,228 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:28:46,227 [main] Runner  - outcome :: SEVEN HOUSE CHERRY
+INFO    2019-05-27 21:28:46,227 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:28:47,196 [main] Runner  - outcome :: HOUSE CHERRY SEVEN
+INFO    2019-05-27 21:28:47,196 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:28:48,151 [main] Runner  - outcome :: SEVEN SEVEN HOUSE
+INFO    2019-05-27 21:28:48,152 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:28:49,040 [main] Runner  - outcome :: SEVEN CHERRY CHERRY
+INFO    2019-05-27 21:28:49,040 [main] Runner  - Result : Better luck next time!!
+INFO    2019-05-27 21:28:51,789 [main] Runner  - outcome :: CHERRY CHERRY HOUSE
+INFO    2019-05-27 21:28:51,789 [main] Runner  - Result : Better luck next time!!
+INFO    2019-05-27 21:28:57,621 [main] Runner  - outcome :: HOUSE SEVEN CHERRY
+INFO    2019-05-27 21:28:57,621 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:29:02,985 [main] Runner  - outcome :: SEVEN HOUSE CHERRY
+INFO    2019-05-27 21:29:02,985 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:29:03,966 [main] Runner  - outcome :: CHERRY SEVEN HOUSE
+INFO    2019-05-27 21:29:03,966 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:29:04,820 [main] Runner  - outcome :: HOUSE HOUSE CHERRY
+INFO    2019-05-27 21:29:04,820 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:29:05,714 [main] Runner  - outcome :: CHERRY SEVEN SEVEN
+INFO    2019-05-27 21:29:05,714 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:29:06,682 [main] Runner  - outcome :: SEVEN CHERRY CHERRY
+INFO    2019-05-27 21:29:06,682 [main] Runner  - Result : Better luck next time!!
+INFO    2019-05-27 21:29:07,866 [main] Runner  - outcome :: SEVEN SEVEN SEVEN
+INFO    2019-05-27 21:29:07,866 [main] Runner  - Result : Great, You hit the bonus game! play for free.
+INFO    2019-05-27 21:29:07,868 [main] Runner  - ::::::playing bonus game::::::
+INFO    2019-05-27 21:29:07,870 [main] Runner  - Choose any box number between 1 to 5 OR press any char to exit the bonus round: 
+INFO    2019-05-27 21:29:15,012 [main] Runner  - You have earned 5 coins. 
+INFO    2019-05-27 21:29:15,013 [main] Runner  - Choose any box number between 1 to 5 OR press any char to exit the bonus round: 
+INFO    2019-05-27 21:29:16,873 [main] Runner  - You clicked the bomb : game end
+INFO    2019-05-27 21:29:26,835 [main] Runner  - outcome :: HOUSE HOUSE SEVEN
+INFO    2019-05-27 21:29:26,835 [main] Runner  - Result : Wow, you hit a free game! play next round for free.
+INFO    2019-05-27 21:29:26,835 [main] Runner  - outcome :: HOUSE CHERRY HOUSE
+INFO    2019-05-27 21:29:26,835 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:29:29,816 [main] Runner  - outcome :: HOUSE SEVEN CHERRY
+INFO    2019-05-27 21:29:29,816 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:29:31,013 [main] Runner  - outcome :: CHERRY SEVEN HOUSE
+INFO    2019-05-27 21:29:31,013 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:29:32,341 [main] Runner  - outcome :: CHERRY CHERRY CHERRY
+INFO    2019-05-27 21:29:32,342 [main] Runner  - Result : Great, You hit the bonus game! play for free.
+INFO    2019-05-27 21:29:32,342 [main] Runner  - ::::::playing bonus game::::::
+INFO    2019-05-27 21:29:32,342 [main] Runner  - Choose any box number between 1 to 5 OR press any char to exit the bonus round: 
+INFO    2019-05-27 21:29:35,800 [main] Runner  - You have earned 5 coins. 
+INFO    2019-05-27 21:29:35,800 [main] Runner  - Choose any box number between 1 to 5 OR press any char to exit the bonus round: 
+INFO    2019-05-27 21:29:37,894 [main] Runner  - You have earned 5 coins. 
+INFO    2019-05-27 21:29:37,894 [main] Runner  - Choose any box number between 1 to 5 OR press any char to exit the bonus round: 
+INFO    2019-05-27 21:29:39,316 [main] Runner  - You have earned 5 coins. 
+INFO    2019-05-27 21:29:39,316 [main] Runner  - Choose any box number between 1 to 5 OR press any char to exit the bonus round: 
+INFO    2019-05-27 21:29:40,982 [main] Runner  - You clicked the bomb : game end
+INFO    2019-05-27 21:29:53,154 [main] Runner  - outcome :: HOUSE CHERRY SEVEN
+INFO    2019-05-27 21:29:53,158 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:29:54,927 [main] Runner  - outcome :: HOUSE SEVEN CHERRY
+INFO    2019-05-27 21:29:54,927 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:29:55,800 [main] Runner  - outcome :: HOUSE CHERRY SEVEN
+INFO    2019-05-27 21:29:55,801 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:29:56,674 [main] Runner  - outcome :: HOUSE HOUSE SEVEN
+INFO    2019-05-27 21:29:56,674 [main] Runner  - Result : Wow, you hit a free game! play next round for free.
+INFO    2019-05-27 21:29:56,674 [main] Runner  - outcome :: HOUSE SEVEN SEVEN
+INFO    2019-05-27 21:29:56,674 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:29:57,504 [main] Runner  - outcome :: HOUSE CHERRY SEVEN
+INFO    2019-05-27 21:29:57,504 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:29:58,381 [main] Runner  - outcome :: SEVEN CHERRY SEVEN
+INFO    2019-05-27 21:29:58,382 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:29:59,176 [main] Runner  - outcome :: SEVEN CHERRY SEVEN
+INFO    2019-05-27 21:29:59,176 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:30:00,034 [main] Runner  - outcome :: HOUSE HOUSE HOUSE
+INFO    2019-05-27 21:30:00,034 [main] Runner  - Result : Great, You hit the bonus game! play for free.
+INFO    2019-05-27 21:30:00,034 [main] Runner  - ::::::playing bonus game::::::
+INFO    2019-05-27 21:30:00,034 [main] Runner  - Choose any box number between 1 to 5 OR press any char to exit the bonus round: 
+INFO    2019-05-27 21:30:02,881 [main] Runner  - You have earned 5 coins. 
+INFO    2019-05-27 21:30:02,881 [main] Runner  - Choose any box number between 1 to 5 OR press any char to exit the bonus round: 
+INFO    2019-05-27 21:30:04,897 [main] Runner  - You have earned 5 coins. 
+INFO    2019-05-27 21:30:04,897 [main] Runner  - Choose any box number between 1 to 5 OR press any char to exit the bonus round: 
+INFO    2019-05-27 21:30:06,375 [main] Runner  - You have earned 5 coins. 
+INFO    2019-05-27 21:30:06,375 [main] Runner  - Choose any box number between 1 to 5 OR press any char to exit the bonus round: 
+INFO    2019-05-27 21:30:08,426 [main] Runner  - You have earned 5 coins. 
+INFO    2019-05-27 21:30:08,426 [main] Runner  - Choose any box number between 1 to 5 OR press any char to exit the bonus round: 
+INFO    2019-05-27 21:30:11,264 [main] Runner  - Box is already open, open different box
+INFO    2019-05-27 21:30:11,264 [main] Runner  - Choose any box number between 1 to 5 OR press any char to exit the bonus round: 
+INFO    2019-05-27 21:30:13,125 [main] Runner  - You clicked the bomb : game end
+INFO    2019-05-27 21:30:20,044 [main] Runner  - outcome :: CHERRY CHERRY HOUSE
+INFO    2019-05-27 21:30:20,044 [main] Runner  - Result : Better luck next time!!
+INFO    2019-05-27 21:30:21,828 [main] Runner  - outcome :: HOUSE CHERRY HOUSE
+INFO    2019-05-27 21:30:21,828 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:30:24,810 [main] Runner  - outcome :: HOUSE HOUSE CHERRY
+INFO    2019-05-27 21:30:24,810 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:30:25,794 [main] Runner  - outcome :: HOUSE HOUSE HOUSE
+INFO    2019-05-27 21:30:25,794 [main] Runner  - Result : Great, You hit the bonus game! play for free.
+INFO    2019-05-27 21:30:25,794 [main] Runner  - ::::::playing bonus game::::::
+INFO    2019-05-27 21:30:25,794 [main] Runner  - Choose any box number between 1 to 5 OR press any char to exit the bonus round: 
+INFO    2019-05-27 21:30:28,377 [main] Runner  - Exiting box-picking  game...!
+INFO    2019-05-27 21:30:30,947 [main] Runner  - outcome :: CHERRY HOUSE HOUSE
+INFO    2019-05-27 21:30:30,948 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:30:32,627 [main] Runner  - outcome :: SEVEN SEVEN SEVEN
+INFO    2019-05-27 21:30:32,627 [main] Runner  - Result : Great, You hit the bonus game! play for free.
+INFO    2019-05-27 21:30:32,628 [main] Runner  - ::::::playing bonus game::::::
+INFO    2019-05-27 21:30:32,628 [main] Runner  - Choose any box number between 1 to 5 OR press any char to exit the bonus round: 
+INFO    2019-05-27 21:30:35,045 [main] Runner  - Exiting box-picking  game...!
+INFO    2019-05-27 21:30:36,384 [main] Runner  - outcome :: SEVEN SEVEN CHERRY
+INFO    2019-05-27 21:30:36,384 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:30:37,649 [main] Runner  - outcome :: SEVEN CHERRY SEVEN
+INFO    2019-05-27 21:30:37,649 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:30:38,691 [main] Runner  - outcome :: HOUSE SEVEN SEVEN
+INFO    2019-05-27 21:30:38,691 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:30:39,673 [main] Runner  - outcome :: HOUSE SEVEN SEVEN
+INFO    2019-05-27 21:30:39,673 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:30:40,504 [main] Runner  - outcome :: CHERRY CHERRY HOUSE
+INFO    2019-05-27 21:30:40,505 [main] Runner  - Result : Better luck next time!!
+INFO    2019-05-27 21:30:41,264 [main] Runner  - outcome :: HOUSE HOUSE HOUSE
+INFO    2019-05-27 21:30:41,264 [main] Runner  - Result : Great, You hit the bonus game! play for free.
+INFO    2019-05-27 21:30:41,264 [main] Runner  - ::::::playing bonus game::::::
+INFO    2019-05-27 21:30:41,264 [main] Runner  - Choose any box number between 1 to 5 OR press any char to exit the bonus round: 
+INFO    2019-05-27 21:30:43,116 [main] Runner  - Exiting box-picking  game...!
+INFO    2019-05-27 21:30:44,388 [main] Runner  - outcome :: SEVEN HOUSE SEVEN
+INFO    2019-05-27 21:30:44,389 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:30:45,359 [main] Runner  - outcome :: CHERRY HOUSE CHERRY
+INFO    2019-05-27 21:30:45,360 [main] Runner  - Result : Better luck next time!!
+INFO    2019-05-27 21:30:46,176 [main] Runner  - outcome :: CHERRY SEVEN CHERRY
+INFO    2019-05-27 21:30:46,176 [main] Runner  - Result : Better luck next time!!
+INFO    2019-05-27 21:30:47,076 [main] Runner  - outcome :: SEVEN HOUSE SEVEN
+INFO    2019-05-27 21:30:47,077 [main] Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 21:30:52,096 [main] Runner  - outcome :: CHERRY CHERRY CHERRY
+INFO    2019-05-27 21:30:52,096 [main] Runner  - Result : Great, You hit the bonus game! play for free.
+INFO    2019-05-27 21:30:52,096 [main] Runner  - ::::::playing bonus game::::::
+INFO    2019-05-27 21:30:52,096 [main] Runner  - Choose any box number between 1 to 5 OR press any char to exit the bonus round: 
+INFO    2019-05-27 21:30:53,920 [main] Runner  - Exiting box-picking  game...!

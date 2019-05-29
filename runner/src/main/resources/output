@@ -1,0 +1,257 @@
+/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=50780:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/lib/tools.jar:/Users/vsaini/myworkspace/code_assignment_java_developer/netent_example/runner/target/classes:/Users/vsaini/myworkspace/code_assignment_java_developer/netent_example/bonusgame/target/classes:/Users/vsaini/myworkspace/code_assignment_java_developer/netent_example/framework/target/classes:/Users/vsaini/myworkspace/code_assignment_java_developer/netent_example/slotgame/target/classes:/Users/vsaini/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar com.game.play.Runner
+INFO    2019-05-27 16:01:34,094 [main] com.game.play.Runner  - ::::::::::::::::Welcome to the slot-game::::::::::::::::
+INFO    2019-05-27 16:01:34,098 [main] com.game.play.Runner  - outcome :: HOUSE CHERRY HOUSE
+INFO    2019-05-27 16:01:34,099 [main] com.game.play.Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 16:01:34,099 [main] com.game.wallet.Wallet  - Wallet balance : 20
+
+Do you want to play more?  Wallet balance is : 20
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:01:46,611 [main] com.game.play.Runner  - outcome :: SEVEN CHERRY HOUSE
+INFO    2019-05-27 16:01:46,612 [main] com.game.play.Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 16:01:46,612 [main] com.game.wallet.Wallet  - Wallet balance : 30
+
+Do you want to play more?  Wallet balance is : 30
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:01:53,035 [main] com.game.play.Runner  - outcome :: HOUSE CHERRY CHERRY
+INFO    2019-05-27 16:01:53,035 [main] com.game.play.Runner  - Result : Better luck next time!!
+INFO    2019-05-27 16:01:53,035 [main] com.game.wallet.Wallet  - Wallet balance : 20
+
+Do you want to play more?  Wallet balance is : 20
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:02:00,827 [main] com.game.play.Runner  - outcome :: SEVEN SEVEN SEVEN
+INFO    2019-05-27 16:02:00,827 [main] com.game.play.Runner  - Result : Great, You hit the bonus game! play for free.
+INFO    2019-05-27 16:02:00,829 [main] com.game.bonusgame.BonusGame  - ::::::playing bonus game::::::
+INFO    2019-05-27 16:02:00,830 [main] com.game.bonusgame.BonusGame  - Choose any box number between 1 to 5 OR press any char to exit the bonus round:
+q
+INFO    2019-05-27 16:02:04,523 [main] com.game.bonusgame.BonusGame  - Exiting box-picking  game...!
+INFO    2019-05-27 16:02:04,524 [main] com.game.wallet.Wallet  - Wallet balance : 10
+
+Do you want to play more?  Wallet balance is : 10
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:02:10,819 [main] com.game.play.Runner  - outcome :: CHERRY HOUSE SEVEN
+INFO    2019-05-27 16:02:10,819 [main] com.game.play.Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 16:02:10,819 [main] com.game.wallet.Wallet  - Wallet balance : 20
+
+Do you want to play more?  Wallet balance is : 20
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:02:15,811 [main] com.game.play.Runner  - outcome :: SEVEN CHERRY CHERRY
+INFO    2019-05-27 16:02:15,811 [main] com.game.play.Runner  - Result : Better luck next time!!
+INFO    2019-05-27 16:02:15,811 [main] com.game.wallet.Wallet  - Wallet balance : 10
+
+Do you want to play more?  Wallet balance is : 10
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:02:18,387 [main] com.game.play.Runner  - outcome :: CHERRY HOUSE SEVEN
+INFO    2019-05-27 16:02:18,387 [main] com.game.play.Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 16:02:18,387 [main] com.game.wallet.Wallet  - Wallet balance : 20
+
+Do you want to play more?  Wallet balance is : 20
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:02:23,714 [main] com.game.play.Runner  - outcome :: HOUSE HOUSE HOUSE
+INFO    2019-05-27 16:02:23,714 [main] com.game.play.Runner  - Result : Great, You hit the bonus game! play for free.
+INFO    2019-05-27 16:02:23,715 [main] com.game.bonusgame.BonusGame  - ::::::playing bonus game::::::
+INFO    2019-05-27 16:02:23,715 [main] com.game.bonusgame.BonusGame  - Choose any box number between 1 to 5 OR press any char to exit the bonus round:
+q
+INFO    2019-05-27 16:02:26,587 [main] com.game.bonusgame.BonusGame  - Exiting box-picking  game...!
+INFO    2019-05-27 16:02:26,588 [main] com.game.wallet.Wallet  - Wallet balance : 10
+
+Do you want to play more?  Wallet balance is : 10
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:02:27,899 [main] com.game.play.Runner  - outcome :: CHERRY SEVEN SEVEN
+INFO    2019-05-27 16:02:27,899 [main] com.game.play.Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 16:02:27,899 [main] com.game.wallet.Wallet  - Wallet balance : 20
+
+Do you want to play more?  Wallet balance is : 20
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:02:30,499 [main] com.game.play.Runner  - outcome :: HOUSE CHERRY HOUSE
+INFO    2019-05-27 16:02:30,499 [main] com.game.play.Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 16:02:30,499 [main] com.game.wallet.Wallet  - Wallet balance : 30
+
+Do you want to play more?  Wallet balance is : 30
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:02:36,651 [main] com.game.play.Runner  - outcome :: SEVEN SEVEN SEVEN
+INFO    2019-05-27 16:02:36,651 [main] com.game.play.Runner  - Result : Great, You hit the bonus game! play for free.
+INFO    2019-05-27 16:02:36,651 [main] com.game.bonusgame.BonusGame  - ::::::playing bonus game::::::
+INFO    2019-05-27 16:02:36,651 [main] com.game.bonusgame.BonusGame  - Choose any box number between 1 to 5 OR press any char to exit the bonus round:
+q
+INFO    2019-05-27 16:02:38,947 [main] com.game.bonusgame.BonusGame  - Exiting box-picking  game...!
+INFO    2019-05-27 16:02:38,948 [main] com.game.wallet.Wallet  - Wallet balance : 20
+
+Do you want to play more?  Wallet balance is : 20
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:02:40,507 [main] com.game.play.Runner  - outcome :: SEVEN CHERRY SEVEN
+INFO    2019-05-27 16:02:40,507 [main] com.game.play.Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 16:02:40,507 [main] com.game.wallet.Wallet  - Wallet balance : 30
+
+Do you want to play more?  Wallet balance is : 30
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:02:42,291 [main] com.game.play.Runner  - outcome :: SEVEN HOUSE CHERRY
+INFO    2019-05-27 16:02:42,291 [main] com.game.play.Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 16:02:42,291 [main] com.game.wallet.Wallet  - Wallet balance : 40
+
+Do you want to play more?  Wallet balance is : 40
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:02:43,387 [main] com.game.play.Runner  - outcome :: SEVEN SEVEN HOUSE
+INFO    2019-05-27 16:02:43,388 [main] com.game.play.Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 16:02:43,388 [main] com.game.wallet.Wallet  - Wallet balance : 50
+
+Do you want to play more?  Wallet balance is : 50
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:02:44,555 [main] com.game.play.Runner  - outcome :: SEVEN HOUSE CHERRY
+INFO    2019-05-27 16:02:44,555 [main] com.game.play.Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 16:02:44,555 [main] com.game.wallet.Wallet  - Wallet balance : 60
+
+Do you want to play more?  Wallet balance is : 60
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:02:45,563 [main] com.game.play.Runner  - outcome :: SEVEN SEVEN HOUSE
+INFO    2019-05-27 16:02:45,563 [main] com.game.play.Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 16:02:45,563 [main] com.game.wallet.Wallet  - Wallet balance : 70
+
+Do you want to play more?  Wallet balance is : 70
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:02:47,123 [main] com.game.play.Runner  - outcome :: HOUSE HOUSE CHERRY
+INFO    2019-05-27 16:02:47,124 [main] com.game.play.Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 16:02:47,124 [main] com.game.wallet.Wallet  - Wallet balance : 80
+
+Do you want to play more?  Wallet balance is : 80
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:02:48,411 [main] com.game.play.Runner  - outcome :: HOUSE SEVEN CHERRY
+INFO    2019-05-27 16:02:48,411 [main] com.game.play.Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 16:02:48,411 [main] com.game.wallet.Wallet  - Wallet balance : 90
+
+Do you want to play more?  Wallet balance is : 90
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:02:51,730 [main] com.game.play.Runner  - outcome :: CHERRY HOUSE CHERRY
+INFO    2019-05-27 16:02:51,731 [main] com.game.play.Runner  - Result : Better luck next time!!
+INFO    2019-05-27 16:02:51,731 [main] com.game.wallet.Wallet  - Wallet balance : 80
+
+Do you want to play more?  Wallet balance is : 80
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:02:54,401 [main] com.game.play.Runner  - outcome :: CHERRY SEVEN HOUSE
+INFO    2019-05-27 16:02:54,401 [main] com.game.play.Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 16:02:54,402 [main] com.game.wallet.Wallet  - Wallet balance : 90
+
+Do you want to play more?  Wallet balance is : 90
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:02:59,346 [main] com.game.play.Runner  - outcome :: HOUSE SEVEN SEVEN
+INFO    2019-05-27 16:02:59,346 [main] com.game.play.Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 16:02:59,346 [main] com.game.wallet.Wallet  - Wallet balance : 100
+
+Do you want to play more?  Wallet balance is : 100
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:03:03,227 [main] com.game.play.Runner  - outcome :: SEVEN CHERRY CHERRY
+INFO    2019-05-27 16:03:03,227 [main] com.game.play.Runner  - Result : Better luck next time!!
+INFO    2019-05-27 16:03:03,227 [main] com.game.wallet.Wallet  - Wallet balance : 90
+
+Do you want to play more?  Wallet balance is : 90
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:03:04,547 [main] com.game.play.Runner  - outcome :: CHERRY SEVEN CHERRY
+INFO    2019-05-27 16:03:04,547 [main] com.game.play.Runner  - Result : Better luck next time!!
+INFO    2019-05-27 16:03:04,547 [main] com.game.wallet.Wallet  - Wallet balance : 80
+
+Do you want to play more?  Wallet balance is : 80
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:03:05,763 [main] com.game.play.Runner  - outcome :: HOUSE SEVEN SEVEN
+INFO    2019-05-27 16:03:05,763 [main] com.game.play.Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 16:03:05,763 [main] com.game.wallet.Wallet  - Wallet balance : 90
+
+Do you want to play more?  Wallet balance is : 90
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:03:06,699 [main] com.game.play.Runner  - outcome :: HOUSE SEVEN CHERRY
+INFO    2019-05-27 16:03:06,699 [main] com.game.play.Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 16:03:06,700 [main] com.game.wallet.Wallet  - Wallet balance : 100
+
+Do you want to play more?  Wallet balance is : 100
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:03:07,530 [main] com.game.play.Runner  - outcome :: CHERRY HOUSE CHERRY
+INFO    2019-05-27 16:03:07,531 [main] com.game.play.Runner  - Result : Better luck next time!!
+INFO    2019-05-27 16:03:07,531 [main] com.game.wallet.Wallet  - Wallet balance : 90
+
+Do you want to play more?  Wallet balance is : 90
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:03:08,658 [main] com.game.play.Runner  - outcome :: SEVEN SEVEN HOUSE
+INFO    2019-05-27 16:03:08,659 [main] com.game.play.Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 16:03:08,659 [main] com.game.wallet.Wallet  - Wallet balance : 100
+
+Do you want to play more?  Wallet balance is : 100
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:03:09,339 [main] com.game.play.Runner  - outcome :: CHERRY HOUSE HOUSE
+INFO    2019-05-27 16:03:09,339 [main] com.game.play.Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 16:03:09,340 [main] com.game.wallet.Wallet  - Wallet balance : 110
+
+Do you want to play more?  Wallet balance is : 110
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:03:10,251 [main] com.game.play.Runner  - outcome :: CHERRY SEVEN HOUSE
+INFO    2019-05-27 16:03:10,252 [main] com.game.play.Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 16:03:10,252 [main] com.game.wallet.Wallet  - Wallet balance : 120
+
+Do you want to play more?  Wallet balance is : 120
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:03:11,059 [main] com.game.play.Runner  - outcome :: HOUSE CHERRY SEVEN
+INFO    2019-05-27 16:03:11,060 [main] com.game.play.Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 16:03:11,060 [main] com.game.wallet.Wallet  - Wallet balance : 130
+
+Do you want to play more?  Wallet balance is : 130
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:03:11,835 [main] com.game.play.Runner  - outcome :: SEVEN SEVEN SEVEN
+INFO    2019-05-27 16:03:11,835 [main] com.game.play.Runner  - Result : Great, You hit the bonus game! play for free.
+INFO    2019-05-27 16:03:11,836 [main] com.game.bonusgame.BonusGame  - ::::::playing bonus game::::::
+INFO    2019-05-27 16:03:11,836 [main] com.game.bonusgame.BonusGame  - Choose any box number between 1 to 5 OR press any char to exit the bonus round:
+q
+INFO    2019-05-27 16:03:13,803 [main] com.game.bonusgame.BonusGame  - Exiting box-picking  game...!
+INFO    2019-05-27 16:03:13,803 [main] com.game.wallet.Wallet  - Wallet balance : 120
+
+Do you want to play more?  Wallet balance is : 120
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:03:18,425 [main] com.game.play.Runner  - outcome :: CHERRY HOUSE CHERRY
+INFO    2019-05-27 16:03:18,426 [main] com.game.play.Runner  - Result : Better luck next time!!
+INFO    2019-05-27 16:03:18,426 [main] com.game.wallet.Wallet  - Wallet balance : 110
+
+Do you want to play more?  Wallet balance is : 110
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:03:22,603 [main] com.game.play.Runner  - outcome :: CHERRY CHERRY SEVEN
+INFO    2019-05-27 16:03:22,603 [main] com.game.play.Runner  - Result : Better luck next time!!
+INFO    2019-05-27 16:03:22,604 [main] com.game.wallet.Wallet  - Wallet balance : 100
+
+Do you want to play more?  Wallet balance is : 100
+ Type 'Y' for yes or any character to exit the game.
+y
+INFO    2019-05-27 16:03:26,139 [main] com.game.play.Runner  - outcome :: SEVEN HOUSE HOUSE
+INFO    2019-05-27 16:03:26,139 [main] com.game.play.Runner  - Result : Wow, you hit a free game! play next round for free.
+INFO    2019-05-27 16:03:26,139 [main] com.game.play.Runner  - outcome :: SEVEN SEVEN CHERRY
+INFO    2019-05-27 16:03:26,139 [main] com.game.play.Runner  - Result : Congratulations! You have earned 20 coins.
+INFO    2019-05-27 16:03:26,139 [main] com.game.wallet.Wallet  - Wallet balance : 100
+
+Do you want to play more?  Wallet balance is : 100
+ Type 'Y' for yes or any character to exit the game.

@@ -1,0 +1,41 @@
+// This file is just a dummy file having possible winning combinations, no importance in real program //
+
+// Maximum combination of the spin with given set of 3 symbols //
+////////////////////////////////////////////////////////////////
+
+-----------failed cases--------
+CHERRY HOUSE CHERRY
+SEVEN CHERRY CHERRY
+CHERRY SEVEN CHERRY
+CHERRY CHERRY SEVEN
+CHERRY CHERRY HOUSE
+HOUSE CHERRY CHERRY
+CHERRY SEVEN HOUSE
+SEVEN CHERRY HOUSE
+HOUSE SEVEN CHERRY
+SEVEN HOUSE CHERRY
+HOUSE CHERRY SEVEN
+CHERRY HOUSE SEVEN
+
+//-----winning combinations-----//
+
+--------30% case------- 20 coins
+SEVEN SEVEN HOUSE
+SEVEN SEVEN CHERRY
+HOUSE SEVEN SEVEN
+SEVEN CHERRY SEVEN
+SEVEN HOUSE SEVEN
+CHERRY SEVEN SEVEN
+HOUSE HOUSE CHERRY
+CHERRY HOUSE HOUSE
+HOUSE CHERRY HOUSE
+
+-------10% case-------- Bonus
+CHERRY CHERRY CHERRY
+HOUSE HOUSE HOUSE
+SEVEN SEVEN SEVEN
+
+-------10% case-------- Free
+HOUSE HOUSE SEVEN
+SEVEN HOUSE HOUSE
+HOUSE SEVEN HOUSE
